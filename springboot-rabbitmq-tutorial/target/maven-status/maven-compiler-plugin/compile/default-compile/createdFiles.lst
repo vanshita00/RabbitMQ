@@ -1,0 +1,4 @@
+net\javaguides\springboot\config\RabbitMQConfig.class
+net\javaguides\springboot\publisher\RabbitMQProducer.class
+net\javaguides\springboot\SpringbootRabbitmqTutorialApplication.class
+net\javaguides\springboot\controller\MessageController.class
